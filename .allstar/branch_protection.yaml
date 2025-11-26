@@ -1,1 +1,3 @@
 action: 'log'
+git add .
+git commit -m "修复说明：我做了什么修改"
